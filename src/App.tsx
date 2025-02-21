@@ -19,7 +19,7 @@ function App() {
               <a href="#projects" className="hover:text-purple-400 transition-colors">projects</a>
               <a href="#contact" className="hover:text-purple-400 transition-colors">contact</a>
               <a 
-                href="/jennifer-resume.pdf" 
+                href="https://drive.google.com/file/d/1CgeOr11rutkeBrgECTi8-b4LBAXEwFHs/view?usp=drivesdk" 
                 target="_blank"
                 className="px-4 py-2 bg-purple-500 hover:bg-purple-600 rounded-full transition-colors"
               >
