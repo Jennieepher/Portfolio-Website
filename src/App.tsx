@@ -1,5 +1,6 @@
 import React from 'react';
 import { BarChart3, GitBranch, FileText, ExternalLink, Send, Database, TrendingUp, Brain, PieChart } from 'lucide-react';
+import jennifer from './assest/images/jennyicon.jpg';
 
 function App() {
   return (
@@ -64,7 +65,7 @@ function App() {
             <div className="flex-1 flex justify-center md:justify-end">
               <div className="relative w-72 h-72 md:w-96 md:h-96">
                 <img
-                  src="https://asset.cloudinary.com/deetnosec/0075f502225cc32d9745b4ea25675858"
+                  src={jennifer}
                   alt="Jennifer - Insights Analyst"
                   className="rounded-full object-cover w-full h-full border-4 border-purple-500/20"
                 />
