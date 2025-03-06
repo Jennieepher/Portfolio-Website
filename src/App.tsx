@@ -102,7 +102,7 @@ function App() {
 
             {/* Project 2 */}
             <div className="bg-gray-800 rounded-xl p-6">
-              <h3 className="text-xl font-semibold mb-3">Predictive Sales Analytics</h3>
+              <h3 className="text-xl font-semibold mb-3">Predictive Modelling & Analytics</h3>
               <p className="text-gray-400 mb-4">
                 Built and deployed machine learning models for sales forecasting, 
                 achieving 92% accuracy in quarterly revenue predictions.
